@@ -43,7 +43,7 @@ import {CardDisplayDialogComponent} from "./card-display-dialog/card-display-dia
         NewCardDialogComponent,
         NewDeckDialogComponent,
         PlayComponent,
-        HelpComponent
+        HelpComponent,
         CardDisplayDialogComponent,
 
 
